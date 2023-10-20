@@ -1,0 +1,268 @@
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found FP-K15H5-MFG
+Add Component: Footprint Not Found FP-R82DC4100DQ60J-MFG
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found FP-R82DC4100DQ60J-MFG
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found FP-K15H5-MFG
+Added Component: Designator=D1(STPS1045D)
+Added Component: Designator=D2(STPS1045D)
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Added Component: Designator=Q1(1727-PHP18NQ11T,127-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-PHP18NQ11T,127-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(1727-PHP18NQ11T,127-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-PHP18NQ11T,127-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-135AR-MFG
+Add Component: Footprint Not Found FP-135AR-MFG
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found FP-135AR-MFG
+Added Component: Designator=R1(BR3FBR100)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7170987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found PDIP300-P8
+Add Component: Footprint Not Found FP-D0008A-IPC_C
+Add Component: Footprint Not Found FP-D0008A-IPC_B
+Add Component: Footprint Not Found FP-D0008A-IPC_B
+Add Component: Footprint Not Found P0008A
+Add Component: Footprint Not Found NFF0014A
+Added Component: Designator=U6(LM319_DIP14)
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM319-N&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "NFF0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "MDIP, .750 x .250 x.130in, 14 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTTE#*LM319N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin C3_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin C3_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin C3_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin C4_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin C4_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin C4_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin C4_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin D3_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin D3_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin D3_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin D3_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin D4_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin D4_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin D4_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin D4_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetL1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetL2_1 Pin=Q2-3
+Add Pin To Net: Unknown Pin: Pin Q3_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin Q3_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin Q3_Boost Sawtooth-3
+Add Pin To Net: Unknown Pin: Pin Q3_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin Q3_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin Q3_PWM Generator-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Add Pin To Net: Unknown Pin: Pin Q5-1
+Add Pin To Net: Unknown Pin: Pin Q5-2
+Add Pin To Net: Unknown Pin: Pin Q5-3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin R2_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin R2_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin R2_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin R2_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin R3_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin R3_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin R3_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin R3_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-1
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-2
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-3
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-4
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-5
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-6
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-7
+Add Pin To Net: Unknown Pin: Pin U3_Boost Sawtooth-8
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-1
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-2
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-3
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-4
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-5
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-6
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-7
+Add Pin To Net: Unknown Pin: Pin U3_PWM Generator-8
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Pin To Net: Unknown Pin: Pin U5-12
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=NetR14_1 Pin=U6-4
+Added Pin To Net: NetName=NetU3_PWM Generator_3 Pin=U6-5
+Added Pin To Net: NetName=-15V Pin=U6-6
+Added Pin To Net: NetName=NetC11_1 Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=NetC14_2 Pin=U6-9
+Added Pin To Net: NetName=NetC11_2 Pin=U6-10
+Added Pin To Net: NetName=15V Pin=U6-11
+Added Pin To Net: NetName=NetR14_2 Pin=U6-12
+Add Net: Net with name "GND" already exists
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3_Boost Sawtooth (C3) SA115C104KAR
+Add Class Member: Failed to add class member : Component C3_PWM Generator (C3) SA115C104KAR
+Add Class Member: Failed to add class member : Component C4_Boost Sawtooth (C4) SA115C104KAR
+Add Class Member: Failed to add class member : Component C4_PWM Generator (C4) SA115C104KAR
+Add Class Member: Failed to add class member : Component C5 K104K15X7RF5TH5
+Add Class Member: Failed to add class member : Component C6 R82DC4100DQ60J
+Add Class Member: Failed to add class member : Component C7 SA115C104KAR
+Add Class Member: Failed to add class member : Component C8 R82DC4100DQ60J
+Add Class Member: Failed to add class member : Component C9 SA115C104KAR
+Add Class Member: Failed to add class member : Component C10 SA115C104KAR
+Add Class Member: Failed to add class member : Component C11 Capacitor
+Add Class Member: Failed to add class member : Component C12 Capacitor
+Add Class Member: Failed to add class member : Component C13 Capacitor
+Add Class Member: Failed to add class member : Component C14 Capacitor
+Add Class Member: Failed to add class member : Component C15 K104K15X7RF5TH5
+Added Member To Class: ClassName=Boost Converter Member=Component D1 STPS1045D
+Added Member To Class: ClassName=Buck Converter Member=Component D2 STPS1045D
+Add Class Member: Failed to add class member : Component D3_Boost Sawtooth (D3) 1N4148
+Add Class Member: Failed to add class member : Component D3_PWM Generator (D3) 1N4148
+Add Class Member: Failed to add class member : Component D4_Boost Sawtooth (D4) 1N4148
+Add Class Member: Failed to add class member : Component D4_PWM Generator (D4) 1N4148
+Add Class Member: Failed to add class member : Component D5 1N4148
+Add Class Member: Failed to add class member : Component D6 1N4148
+Add Class Member: Failed to add class member : Component L1 Inductor
+Add Class Member: Failed to add class member : Component L2 Inductor
+Added Member To Class: ClassName=Boost Converter Member=Component Q1 PHP18NQ11T,127
+Added Member To Class: ClassName=Buck Converter Member=Component Q2 PHP18NQ11T,127
+Add Class Member: Failed to add class member : Component Q3_Boost Sawtooth (Q3) 2N3906TF
+Add Class Member: Failed to add class member : Component Q3_PWM Generator (Q3) 2N3906TF
+Add Class Member: Failed to add class member : Component Q4 2N3904
+Add Class Member: Failed to add class member : Component Q5 2N3904
+Add Class Member: Failed to add class member : Component Q6 2N3906TF
+Added Member To Class: ClassName=EECS498Converter Member=Component R1 BR3FBR100
+Add Class Member: Failed to add class member : Component R2_Boost Sawtooth (R2) RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R2_PWM Generator (R2) RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R3_Boost Sawtooth (R3) RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R3_PWM Generator (R3) RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R4 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R5 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R6 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R7 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R8 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R9 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R10 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R11 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R12 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R13 RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
+Add Class Member: Failed to add class member : Component R16 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R18 Resistor
+Add Class Member: Failed to add class member : Component R19 Resistor
+Add Class Member: Failed to add class member : Component U1 MCP1407-E/P
+Add Class Member: Failed to add class member : Component U2 LM5110-1MX/NOPB
+Add Class Member: Failed to add class member : Component U3_Boost Sawtooth (U3) TLC555CDR
+Add Class Member: Failed to add class member : Component U3_PWM Generator (U3) TLC555CDR
+Add Class Member: Failed to add class member : Component U4 LM358AP
+Add Class Member: Failed to add class member : Component U5 LM319N
+Added Member To Class: ClassName=Constant Current Controller Member=Component U6 LM319N

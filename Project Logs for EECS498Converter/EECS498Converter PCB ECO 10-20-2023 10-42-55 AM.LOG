@@ -1,0 +1,143 @@
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found FP-K15H5-MFG
+Add Component: Footprint Not Found FP-R82DC4100DQ60J-MFG
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found FP-R82DC4100DQ60J-MFG
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found AVX-SA115C104KAR
+Add Component: Footprint Not Found FP-K15H5-MFG
+Added Component: Designator=D1(STPS1045D)
+Added Component: Designator=D2(STPS1045D)
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Add Component: Footprint Not Found FP-017AG-MFG
+Added Component: Designator=Q1(1727-PHP18NQ11T,127-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-PHP18NQ11T,127-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(1727-PHP18NQ11T,127-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-PHP18NQ11T,127-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-135AR-MFG
+Add Component: Footprint Not Found FP-135AR-MFG
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found ONSC-TO-92-3-29-11
+Add Component: Footprint Not Found FP-135AR-MFG
+Added Component: Designator=R1(BR3FBR100)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7170987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found FP-RLR07-MFG
+Add Component: Footprint Not Found PDIP300-P8
+Add Component: Footprint Not Found FP-D0008A-IPC_C
+Add Component: Footprint Not Found FP-D0008A-IPC_B
+Add Component: Footprint Not Found FP-D0008A-IPC_B
+Add Component: Footprint Not Found P0008A
+Add Component: Footprint Not Found NFF0014A
+Added Component: Designator=U6(LM319_DIP14)
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM319-N&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "NFF0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "MDIP, .750 x .250 x.130in, 14 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTTE#*LM319N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-15V Pin=U6-6
+Added Net: Name=-15V
+Added Net: Name=5V
+Added Pin To Net: NetName=15V Pin=U6-11
+Added Net: Name=15V
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Net: Name=GND
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-2
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC3_Boost Sawtooth_2
+Added Net: Name=NetC3_PWM Generator_2
+Added Net: Name=NetC4_Boost Sawtooth_2
+Added Net: Name=NetC4_PWM Generator_2
+Added Pin To Net: NetName=NetC11_1 Pin=U6-7
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=U6-10
+Added Net: Name=NetC11_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC13_2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=U6-9
+Added Net: Name=NetC14_2
+Added Net: Name=NetD3_Boost Sawtooth_1
+Added Net: Name=NetD3_PWM Generator_1
+Added Net: Name=NetD4_Boost Sawtooth_1
+Added Net: Name=NetD4_PWM Generator_1
+Added Net: Name=NetD5_1
+Added Net: Name=NetD5_2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=Q1-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_1 Pin=Q2-3
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Net: Name=NetQ3_Boost Sawtooth_1
+Added Net: Name=NetQ3_PWM Generator_1
+Added Net: Name=NetQ4_1
+Added Net: Name=NetQ5_2
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Net: Name=NetR11_2
+Added Net: Name=NetR12_1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR14_1 Pin=U6-4
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR14_2 Pin=U6-12
+Added Net: Name=NetR14_2
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU3_PWM Generator_3 Pin=U6-5
+Added Net: Name=NetU3_PWM Generator_3
+Added Class: Name=Boost Converter
+Added Class: Name=Boost Sawtooth
+Added Class: Name=Buck Converter
+Added Class: Name=Constant Current Controller
+Added Class: Name=EECS498Converter
+Added Class: Name=Feedforward Controller
+Added Class: Name=Sawtooth Generator
+Add Class Member: Failed to add class member : Component C3_PWM Generator (C3) SA115C104KAR
+Add Class Member: Failed to add class member : Component C4_PWM Generator (C4) SA115C104KAR
+Add Class Member: Failed to add class member : Component D3_PWM Generator (D3) 1N4148
+Add Class Member: Failed to add class member : Component D4_PWM Generator (D4) 1N4148
+Add Class Member: Failed to add class member : Component Q3_PWM Generator (Q3) 2N3906TF
+Add Class Member: Failed to add class member : Component R2_PWM Generator (R2) RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component R3_PWM Generator (R3) RLR07C1003FSB14
+Add Class Member: Failed to add class member : Component U3_PWM Generator (U3) TLC555CDR
