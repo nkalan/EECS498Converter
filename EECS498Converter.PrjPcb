@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NFBMLGHN
 
 [Document5]
-DocumentPath=PWM Generator.SchDoc
+DocumentPath=Sawtooth Generator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
