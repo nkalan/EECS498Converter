@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [EECS498Converter.PcbDoc]
+   Generated File[EECS498Converter.TXT]
+   Generated File[EECS498Converter.LDP]
+   Generated File[EECS498Converter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:11:59 PM On 11/7/2023
