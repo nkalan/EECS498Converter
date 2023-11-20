@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\EECS498Converter\EECS498Converter.PcbDoc
-Date     : 11/7/2023
-Time     : 5:59:46 PM
+Date     : 11/13/2023
+Time     : 2:02:33 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -42,13 +42,10 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
-Rule Violations :0
-
 Processing Rule : Height Constraint (Min=0mil) (Max=1100mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
